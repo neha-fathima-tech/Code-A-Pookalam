@@ -82,10 +82,10 @@ Share your forked repository link with the organizers by **August 31, 2026**!
 ## 🎨 My Pookalam
 
 ### Description
-[Write a brief description of your Pookalam design, inspiration, or the approach you took]
+This pookalam is drawn usingturtlr graphics with concentric circles of petals in warm colors, with a sunflower pattern in the center.
 
 ### Preview
-![My Pookalam](output/pookalam-preview.png)
+[My Pookalam](output.png.jpeg)
 *Add more images if you have multiple views or animations*
 
 ### Features
