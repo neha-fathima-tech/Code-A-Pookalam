@@ -70,14 +70,14 @@ Share your forked repository link with the organizers by **August 31, 2026**!
 **Once you fork this repository, replace this entire README.md with the following format:**
 
 ```markdown
-# 🌸 [Your Name]'s Pookalam 2026 🌸
+# 🌸 NEHA FATHIMA's Pookalam 2026 🌸
 
 ## 👨‍💻 About Me
-- **Name:** [Your Full Name]
-- **Branch:** [Your Branch]
-- **Semester:** [Your Semester]
-- **Contact Number:** [Your Contact Number]
-- **Programming Language Used:** [Language]
+- **Name:** NEHA FATHIMA S S
+- **Branch:** CSE
+- **Semester:** 1
+- **Contact Number:** 8089350917
+- **Programming Language Used:** PYTHON(WITH TURTLE)
 
 ## 🎨 My Pookalam
 
