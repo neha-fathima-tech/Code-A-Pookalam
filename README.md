@@ -86,7 +86,7 @@ This pookalam is drawn usingturtlr graphics with concentric circles of petals in
 
 ### Preview
 [My Pookalam](output.png.jpeg)
-*Add more images if you have multiple views or animations*
+c:\Users\Admin\Downloads\output.png.jpeg
 
 ### Features
 - [Feature 1 - e.g., "Colorful geometric patterns"]
